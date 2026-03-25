@@ -1,6 +1,6 @@
 {
   "name": "actalumen-client",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "Official ActaLumen API client for Node.js and TypeScript with built-in retry support and exponential backoff.",
   "type": "module",
   "main": "./dist/index.js",
